@@ -14,4 +14,17 @@ getListOfNames();
 
 const getNewList = () => {};
 
-// TODO
+// TODO: Right functions here
+const turnRight = () => {
+  console.log(
+    "(ONLY FOR EXAMPLE USE, not example of functionality): TURNING RIGHT",
+  );
+};
+
+const main = () => {
+  console.log("------------ MARS ROVER APP STARTING ------------");
+  // TODO: Right code to be run in here e.g.
+  turnRight();
+};
+
+main();
